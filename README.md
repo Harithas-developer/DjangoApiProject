@@ -15,7 +15,7 @@ Please see the appropriate guide for your enviornment
 
 #### Running the files
 -Set up the virtual enviroment with above version of the software.
--Run the command python manage.py my_my_custom to populate the database with Dummy data.
+-Run the command python manage.py my_my_custom to populate the database with Dummy data (default it populates 10 dummy data).
 -Run the command python manage.py runserver to run the django server to render the Django Api Endpoint.
 -Please create a your own superuser do access the admin page.
 -Run the appropritate deployment commands to deploy the application on the Heroku or pythonanywhere.
